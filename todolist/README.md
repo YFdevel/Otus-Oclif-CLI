@@ -597,3 +597,19 @@ DESCRIPTION
   Update installed plugins.
 ```
 <!-- commandsstop -->
+
+
+
+
+
+Проект Todolist:
+1. MongoDB
+docker compose up
+2. Initialize project
+cd todolist
+npm link or npm i -g ./
+3. Start app-variants:
+todolist start
+todolist all
+
+

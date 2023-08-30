@@ -2,56 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07518846-0d4d-4df3-b52e-a846fd6f368f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/server/controllers/users.controller.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/dist/controllers/users.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/dist/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/dist/models/todo-model.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/dist/models/user-model.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/dist/services/users.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/models/todo-model.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/models/user-model.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/services/users.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/commands/all.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/commands/create.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/commands/detail.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/commands/login.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/commands/register.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/commands/start.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/dto/todo-model-dto.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/dto/user-create-dto.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/dto/user-login-dto.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/dto/user-model-dto.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/models/todo-model.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/models/user-model.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/todo-helpers/create-quiz.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/todo-helpers/delete-todo.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/todo-helpers/make-done.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/todo-helpers/update-todo.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/utils/connect-db.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/utils/temp-todo-id.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/src/utils/token.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/test/commands/create.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/test/commands/detail.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/test/commands/login.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/test/commands/register.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/test/commands/start.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist/test/commands/todos.test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist/.github/dependabot.yml" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/.github/dependabot.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist/.github/workflows/manualRelease.yml" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/.github/workflows/manualRelease.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todolist/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist/bin/dev" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/bin/dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist/bin/dev.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/bin/dev.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist/bin/run" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/bin/run.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist/bin/run.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/bin/run.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693068901657</updated>
-      <workItem from="1693068903970" duration="79511000" />
+      <workItem from="1693068903970" duration="80427000" />
     </task>
     <servers />
   </component>
