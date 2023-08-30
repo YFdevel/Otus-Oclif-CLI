@@ -45,6 +45,7 @@ USAGE
 * [`todolist hello PERSON`](#todolist-hello-person)
 * [`todolist hello world`](#todolist-hello-world)
 * [`todolist help [COMMANDS]`](#todolist-help-commands)
+* [`todolist login`](#todolist-login)
 * [`todolist plugins`](#todolist-plugins)
 * [`todolist plugins:install PLUGIN...`](#todolist-pluginsinstall-plugin)
 * [`todolist plugins:inspect PLUGIN...`](#todolist-pluginsinspect-plugin)
@@ -116,6 +117,23 @@ DESCRIPTION
 ```
 
 _See code: [@oclif/plugin-help](https://github.com/oclif/plugin-help/blob/v5.2.17/src/commands/help.ts)_
+
+## `todolist login`
+
+Get the number of humans currently in space.
+
+```
+USAGE
+  $ todolist login
+
+DESCRIPTION
+  Get the number of humans currently in space.
+
+EXAMPLES
+  $ space-cli humansnNumber of humans currently in space: 7
+```
+
+_See code: [dist/commands/login.ts](https://github.com/YFdevel/todolist/blob/v0.0.0/dist/commands/login.ts)_
 
 ## `todolist plugins`
 

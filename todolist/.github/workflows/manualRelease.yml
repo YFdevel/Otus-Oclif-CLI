@@ -22,7 +22,7 @@ jobs:
           # always do the release, even if there are no semantic commits
           skip-on-empty: false
           tag-prefix: ''
-      - uses: notiz-dev/github-action-json-property@2192e246737701f108a4571462b76c75e7376216
+      - uses: notiz-dev.js/github-action-json-property@2192e246737701f108a4571462b76c75e7376216
         id: packageVersion
         with:
           path: 'package.json'

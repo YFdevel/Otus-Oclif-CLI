@@ -12,11 +12,11 @@ updates:
     pull-request-branch-name:
       separator: '-'
     commit-message:
-      # cause a release for non-dev-deps
+      # cause a release for non-dev.js-deps
       prefix: fix(deps)
-      # no release for dev-deps
-      prefix-development: chore(dev-deps)
+      # no release for dev.js-deps
+      prefix-development: chore(dev.js-deps)
     ignore:
-      - dependency-name: '@salesforce/dev-scripts'
+      - dependency-name: '@salesforce/dev.js-scripts'
       - dependency-name: '*'
         update-types: ['version-update:semver-major']
