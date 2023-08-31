@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07518846-0d4d-4df3-b52e-a846fd6f368f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Otus-Oclif-CLI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f236cc87-175b-4975-b01d-ab186bcab9b5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f236cc87-175b-4975-b01d-ab186bcab9b5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/src/commands/register.ts" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/src/commands/register.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,25 +14,50 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2UWwyb4Sa4859Rl9JvKbuUQeRpl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mongo" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/todolist/src/controllers" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="D:\Programming\OTUS\DZ_common\Otus-Oclif-CLI\todolist\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming\OTUS\DZ_common\Otus-Oclif-CLI\todolist\src\controllers" />
+      <recent name="D:\Programming\OTUS\DZ_common\Otus-Oclif-CLI\todolist\src\models" />
+      <recent name="D:\Programming\OTUS\DZ_common\Otus-Oclif-CLI\server\services" />
+      <recent name="D:\Programming\OTUS\DZ_common\Otus-Oclif-CLI\server\controllers" />
+      <recent name="D:\Programming\OTUS\DZ_common\Otus-Oclif-CLI\server\models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programming\OTUS\DZ_common\Otus-Oclif-CLI\todolist\src\commands" />
+      <recent name="D:\Programming\OTUS\DZ_common\Otus-Oclif-CLI\todolist\src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -43,7 +67,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693068901657</updated>
-      <workItem from="1693068903970" duration="1188000" />
+      <workItem from="1693068903970" duration="80523000" />
+      <workItem from="1693468580933" duration="1841000" />
     </task>
     <servers />
   </component>
@@ -60,5 +85,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
