@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07518846-0d4d-4df3-b52e-a846fd6f368f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f236cc87-175b-4975-b01d-ab186bcab9b5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f236cc87-175b-4975-b01d-ab186bcab9b5.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/src/commands/register.ts" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/src/commands/register.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693068901657</updated>
-      <workItem from="1693068903970" duration="80427000" />
+      <workItem from="1693068903970" duration="80523000" />
+      <workItem from="1693468580933" duration="1841000" />
     </task>
     <servers />
   </component>
@@ -83,6 +85,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
